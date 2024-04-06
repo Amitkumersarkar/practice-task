@@ -1,0 +1,54 @@
+body {
+    background-color: rgba(245, 231, 213, 0.178);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: rgb(143, 3, 3);
+    font-weight: 600;
+}
+
+#name {
+    color: rgb(225, 0, 255);
+    border-color: rgb(41, 199, 20);
+
+}
+
+#name2 {
+    color: blueviolet;
+    border-color: purple;
+}
+
+#name3 {
+    color: darkcyan;
+    border-color: crimson;
+}
+
+.name4 {
+    color: rgb(13, 71, 2);
+    font-weight: 700;
+    border-color: blue;
+}
+
+.name5 {
+    color: rgb(157, 20, 220);
+}
+
+.name6 {
+    font-weight: 700;
+    color: rgb(6, 143, 68);
+}
+
+#name7 {
+    background-color: rgba(43, 174, 226, 0.685);
+}
+
+#name8 {
+    background-color: rgba(189, 68, 12, 0.575);
+}
+
+#name9 {
+    color: rgb(168, 3, 86);
+    font-weight: 700;
+}
